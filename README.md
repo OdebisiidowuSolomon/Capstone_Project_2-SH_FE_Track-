@@ -29,7 +29,7 @@ Your users should be able to:
 
 You Can View The Project By Opening The Index.html File on The Web Browser or Serving It Through A Local Server Like Live Server
 
- ## Links
+## Links
 
 - Link To Live Site [SunnySide Landing Page](https://sunnyside-agency-landing-page-ui.netlify.app/)
 - Link To Source Code [Here](https://github.com/OdebisiidowuSolomon/Capstone_Project_2-SH_FE_Track-)
@@ -44,11 +44,15 @@ You Can View The Project By Opening The Index.html File on The Web Browser or Se
 - Mobile-first workflow
 
 ### Version Control
+
 - Github
+
 ### Hosting
+
 - The project is hosted on Netlify
 
 ## Team Members:
+
 - Odebisi Solomon Idowu(Team Lead)
 - Okoro Amarachi Uka
 - Vincent Mnkhambo
@@ -56,13 +60,11 @@ You Can View The Project By Opening The Index.html File on The Web Browser or Se
 - Imaobong Godwin Ekanem
 - Imoleayo Bisiolu
 - Issa Barakat
-- May Ozohili 
+- May Ozohili
 - Ogbu Anthony Chukwuemeka
 - Grace Okome
 - Vincent Mnkhambo
 
 ## Acknowledgments
 
-I And My whole Team Would Love To Acknowledge And Appreciate The Entire Sidehustle Team, The Founder And Also Our Mentors Mr Damilare And Mr Faruq. Thanks For Providing This Opportunity To Learn And Grow. Thanks
-
-
+At This Point I And My whole Team Would Love To Acknowledge And Appreciate The Entire Sidehustle Team, The Founder And Also Our Mentors Mr Damilare And Mr Faruq. Thanks For Providing This Opportunity To Learn And Grow. Thanks
