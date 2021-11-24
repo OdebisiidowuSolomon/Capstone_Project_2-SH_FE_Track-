@@ -248,6 +248,15 @@ img {
 .section__photography {
   background-image: url("images/mobile/image-photography.jpg");
 }
+.section__photography h1,
+.section__photography p {
+  color: var(--dark-blue);
+}
+
+.section__graphic__design h1,
+.section__graphic__design p {
+  color: var(--dark-desaturated-cyan);
+}
 
 .testimonial__image {
   width: 100px;
