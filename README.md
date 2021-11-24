@@ -1,4 +1,4 @@
-# Group 17 FrontEnd Development Track (Capstone Project 1)
+# Group 17 FrontEnd Development Track (Capstone Project 2)
 
 # Frontend Mentor - Sunnyside agency landing page
 
